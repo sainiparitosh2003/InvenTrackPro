@@ -8,18 +8,18 @@ Welcome to InvenTrackPro, an all-in-one solution designed for efficient inventor
 
 - **Customer Management:** Maintain detailed records of customers, including their contact information, purchase history, and preferences. Easily access and update customer data.
 
-- **Product Management:** Keep track of product details such as descriptions, prices, stock levels, and categories. Ensure accurate inventory counts and quick retrieval of product information.
-
 - **Supplier Management:** Store and manage supplier information, including contact details, delivery schedules, and payment terms. Maintain strong relationships with suppliers for smooth operations.
   
 - **Employee Management:** Manage employee records, including personal information, roles, and performance metrics. Monitor employee activities and access levels within the system.
 
-- **Stock Management:** Track stock levels in real-time, manage stock entries and exits, and set alerts for low stock levels. Ensure optimal inventory levels to meet customer demand without overstocking.
-
-- **Invoice Management:** Generate and manage invoices for sales and services. Retrieve old invoices quickly and ensure accurate billing for all transactions.
+- **Product Management:** Keep track of product details such as descriptions, prices, stock levels, and categories. Ensure accurate inventory counts and quick retrieval of product information.
 
 - **Billing Solution:** Create new bills with ease, applying discounts, taxes, and other charges as needed. Provide customers with accurate and professional invoices.
 
+- **Invoice Management:** Generate and manage invoices for sales and services. Retrieve old invoices quickly and ensure accurate billing for all transactions.
+
+- **Stock Management:** Track stock levels in real-time, manage stock entries and exits, and set alerts for low stock levels. Ensure optimal inventory levels to meet customer demand without overstocking.
+- 
 - **Business Reporting:** Generate comprehensive reports on sales, inventory, and overall business performance. Gain insights into trends and make informed decisions to drive growth.
 
 - **User-Friendly Interface:** Enjoy a simple and intuitive interface designed for easy navigation and efficient task management. Perform all operations with just a few clicks.
