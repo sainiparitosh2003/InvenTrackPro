@@ -31,13 +31,14 @@ Welcome to InvenTrackPro, an all-in-one solution designed for efficient inventor
     <img src="./graphics/3.Employee.png" alt="Employee Management" width="400" height="200"/> <img src="./graphics/4.Product.png" alt="Product Management" width="400" height="200"/>
 </p>
 <p align="center">
-    <img src="./graphics/5. Sale.png" alt="Sale and Invoice Generator" width="400" height="200"/> <img src="./graphics/6.Invoices.png" alt="Invoice Management" width="400" height="200"/>
+    <img src="./graphics/5. Sale.png" alt="Sale and Invoice Generator" width="400" height="200"/>  <img src="./graphics/7.GRN.png" alt="GRN Generator" width="400" height="200"/>
 </p>
 <p align="center">
-    <img src="./graphics/7.GRN.png" alt="GRN Generator" width="400" height="200"/> <img src="./graphics/8.1. Report_print.png" alt="Business Report Generator" width="400" height="200"/>
+  <img src="./graphics/6.Invoices.png" alt="Invoice Management" width="400" height="200"/> <img src="./graphics/9.Stock.png" alt="Stock management" width="400" height="200"/>
+  
 </p>
 <p align="center">
-    <img src="./graphics/8.2. Invoice_print.png" alt="Past Invoice Printing" width="400" height="200"/> <img src="./graphics/9.Stock.png" alt="Stock management" width="400" height="200"/>
+  <img src="./graphics/8.1. Report_print.png" alt="Business Report Generator" width="400" height="200"/> <img src="./graphics/8.2. Invoice_print.png" alt="Past Invoice Printing" width="400" height="200"/> 
 </p>
 How to Run the Application
 Follow these steps to run the InvenTrackPro application locally:
