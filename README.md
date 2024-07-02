@@ -1,25 +1,28 @@
-InvenTrackPro - Comprehensive Inventory Management and Billing Solution
-Introduction
-Welcome to InventoryPro, an all-in-one solution designed for efficient inventory management and streamlined billing processes. InventoryPro enables business owners to maintain comprehensive records and generate detailed reports with ease, ensuring seamless operation and accurate tracking.
+# InvenTrackPro - Comprehensive Inventory Management and Billing Solution
 
-Key Features
-Customer Management: Maintain detailed records of customers, including their contact information, purchase history, and preferences. Easily access and update customer data.
+## Introduction
 
-Product Management: Keep track of product details such as descriptions, prices, stock levels, and categories. Ensure accurate inventory counts and quick retrieval of product information.
+Welcome to InvenTracPro, an all-in-one solution designed for efficient inventory management and streamlined billing processes. InventoryPro enables business owners to maintain comprehensive records and generate detailed reports with ease, ensuring seamless operation and accurate tracking.
 
-Employee Management: Manage employee records, including personal information, roles, and performance metrics. Monitor employee activities and access levels within the system.
+## Key Features
 
-Supplier Management: Store and manage supplier information, including contact details, delivery schedules, and payment terms. Maintain strong relationships with suppliers for smooth operations.
+- **Customer Management:** Maintain detailed records of customers, including their contact information, purchase history, and preferences. Easily access and update customer data.
 
-Stock Management: Track stock levels in real-time, manage stock entries and exits, and set alerts for low stock levels. Ensure optimal inventory levels to meet customer demand without overstocking.
+- **Product Management:** Keep track of product details such as descriptions, prices, stock levels, and categories. Ensure accurate inventory counts and quick retrieval of product information.
 
-Invoice Management: Generate and manage invoices for sales and services. Retrieve old invoices quickly and ensure accurate billing for all transactions.
+- **Employee Management:** Manage employee records, including personal information, roles, and performance metrics. Monitor employee activities and access levels within the system.
 
-Billing Solution: Create new bills with ease, applying discounts, taxes, and other charges as needed. Provide customers with accurate and professional invoices.
+- **Supplier Management:** Store and manage supplier information, including contact details, delivery schedules, and payment terms. Maintain strong relationships with suppliers for smooth operations.
 
-Business Reporting: Generate comprehensive reports on sales, inventory, and overall business performance. Gain insights into trends and make informed decisions to drive growth.
+- **Stock Management:** Track stock levels in real-time, manage stock entries and exits, and set alerts for low stock levels. Ensure optimal inventory levels to meet customer demand without overstocking.
 
-User-Friendly Interface: Enjoy a simple and intuitive interface designed for easy navigation and efficient task management. Perform all operations with just a few clicks.
+- **Invoice Management:** Generate and manage invoices for sales and services. Retrieve old invoices quickly and ensure accurate billing for all transactions.
+
+- **Billing Solution:** Create new bills with ease, applying discounts, taxes, and other charges as needed. Provide customers with accurate and professional invoices.
+
+- **Business Reporting:** Generate comprehensive reports on sales, inventory, and overall business performance. Gain insights into trends and make informed decisions to drive growth.
+
+- **User-Friendly Interface:** Enjoy a simple and intuitive interface designed for easy navigation and efficient task management. Perform all operations with just a few clicks.
 
 <p align="center">
     <img src="./graphics/customer_management.png" alt="Customer Management" width="400" height="200"/> <img src="./graphics/product_management.png" alt="Product Management" width="400" height="200"/>
