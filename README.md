@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to InvenTracPro, an all-in-one solution designed for efficient inventory management and streamlined billing processes. InventoryPro enables business owners to maintain comprehensive records and generate detailed reports with ease, ensuring seamless operation and accurate tracking.
+Welcome to InvenTrackPro, an all-in-one solution designed for efficient inventory management and streamlined billing processes. InvenTrackPro enables business owners to maintain comprehensive records and generate detailed reports with ease, ensuring seamless operation and accurate tracking.
 
 ## Key Features
 
@@ -10,9 +10,9 @@ Welcome to InvenTracPro, an all-in-one solution designed for efficient inventory
 
 - **Product Management:** Keep track of product details such as descriptions, prices, stock levels, and categories. Ensure accurate inventory counts and quick retrieval of product information.
 
-- **Employee Management:** Manage employee records, including personal information, roles, and performance metrics. Monitor employee activities and access levels within the system.
-
 - **Supplier Management:** Store and manage supplier information, including contact details, delivery schedules, and payment terms. Maintain strong relationships with suppliers for smooth operations.
+  
+- **Employee Management:** Manage employee records, including personal information, roles, and performance metrics. Monitor employee activities and access levels within the system.
 
 - **Stock Management:** Track stock levels in real-time, manage stock entries and exits, and set alerts for low stock levels. Ensure optimal inventory levels to meet customer demand without overstocking.
 
@@ -34,13 +34,13 @@ Welcome to InvenTracPro, an all-in-one solution designed for efficient inventory
     <img src="./graphics/stock_management.png" alt="Stock Management" width="400" height="200"/> <img src="./graphics/invoice_management.png" alt="Invoice Management" width="400" height="200"/>
 </p>
 How to Run the Application
-Follow these steps to run the InventoryPro application locally:
+Follow these steps to run the InvenTrackPro application locally:
 
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/inventorypro.git
-cd inventorypro
+git clone https://github.com/sainiparitosh2003/InvenTrackPro.git
+cd InvenTrackPro
 Install Dependencies
 Ensure you have Java installed on your system. Then, compile the project using your preferred build tool (e.g., Maven, Gradle).
 
@@ -55,10 +55,10 @@ gradle build
 Run the Application
 bash
 Copy code
-java -jar target/inventorypro.jar
+java -jar target/InvenTrackPro.jar
 or
 
 bash
 Copy code
 gradle run
-This will launch the InventoryPro application locally. Open your web browser and navigate to the provided local address to explore and manage your inventory with InventoryPro.
+This will launch the InvenTrackPro application locally. Open your web browser and navigate to the provided local address to explore and manage your inventory with InvenTrackPro.
