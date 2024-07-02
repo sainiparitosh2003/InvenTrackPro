@@ -19,7 +19,7 @@ Welcome to InvenTrackPro, an all-in-one solution designed for efficient inventor
 - **Invoice Management:** Generate and manage invoices for sales and services. Retrieve old invoices quickly and ensure accurate billing for all transactions.
 
 - **Stock Management:** Track stock levels in real-time, manage stock entries and exits, and set alerts for low stock levels. Ensure optimal inventory levels to meet customer demand without overstocking.
-- 
+  
 - **Business Reporting:** Generate comprehensive reports on sales, inventory, and overall business performance. Gain insights into trends and make informed decisions to drive growth.
 
 - **User-Friendly Interface:** Enjoy a simple and intuitive interface designed for easy navigation and efficient task management. Perform all operations with just a few clicks.
